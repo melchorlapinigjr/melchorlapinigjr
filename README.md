@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI and Youtube automations**
 
-- 💬 Ask me about **Flutter, Laravel, VueJs, Photography and Mysticism :)**
+- 💬 Ask me about **Flutter, Laravel, VueJs, Photography and Mysticism**
 
 - 📫 How to reach me **lapinigmelchorjr@gmail.com**
 
